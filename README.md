@@ -1,2 +1,2 @@
-# PrepCourse-Henry2
-este es un rep de prueba del modulo 2 del prepcourse de henry
+Ailen Balbarani
+Prueba de como crear un repositorio y clonarlo desde github a mi computadora.
